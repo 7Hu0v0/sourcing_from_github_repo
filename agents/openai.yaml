@@ -1,0 +1,3 @@
+display_name: GitHub Repo Sourcing
+short_description: Build contributor sourcing tables from GitHub repository history.
+default_prompt: "Source contributors from this GitHub repository, including GitHub profile, commit count, institution, LinkedIn, personal homepage, and target-repo commit email. Apply only mechanical surname filters and avoid cross-repo personal email harvesting."
